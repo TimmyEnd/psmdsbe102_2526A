@@ -1,6 +1,6 @@
-# PSMDSBE102-HandsOn4.1
+# PSMDSBE102
 
-In compliance with Hands-on 4.1 requirements. This project was completed for Special Topics course. It covers model training, hyperparameter tuning, experiment tracking, and deployment preparation using Python, Scikit-Learn, Ray Tune, and MLflow.
+In compliance with PSMDSBE102 requirements. This project was completed for Special Topics course. It covers model training, hyperparameter tuning, experiment tracking, and deployment preparation using Python, Scikit-Learn, Ray Tune, and MLflow.
 
 This repository contains the full workflow for training and evaluating a credit-risk classification model. 
 
